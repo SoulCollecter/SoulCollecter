@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoulCollecter", "SoulCollecter\SoulCollecter.csproj", "{182EAD11-EC91-4B1D-AFF1-DA36855A4614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182EAD11-EC91-4B1D-AFF1-DA36855A4614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182EAD11-EC91-4B1D-AFF1-DA36855A4614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182EAD11-EC91-4B1D-AFF1-DA36855A4614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182EAD11-EC91-4B1D-AFF1-DA36855A4614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF02076-8171-46F7-8A84-6E2FC1479491}
+	EndGlobalSection
+EndGlobal
